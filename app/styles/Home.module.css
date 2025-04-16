@@ -1,0 +1,23 @@
+
+
+.hero {
+    padding: 100px 20px;
+    text-align: center;
+    background: linear-gradient(to right, #6a1b9a, #9c27b0);
+    color: white;
+    border-radius: 16px;
+    margin: 40px auto;
+    max-width: 1100px;
+  }
+  
+  .button {
+    display: inline-block;
+    margin-top: 30px;
+    background-color: #ff4081;
+    padding: 12px 28px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
